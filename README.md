@@ -1,25 +1,27 @@
 # Tank It
 
-An interactive 3D armor museum featuring:
+Tank It is an interactive 3D armor museum and proving-ground experience.
 
-- 🇺🇸 M1A2 Abrams
-- 🇷🇺 T-90A
-- 🇩🇪 Tiger I
+## Current version
+
+This repository contains the newest available Tank It build, including the expanded 18-country collection and the latest unique exterior/interior work.
 
 ## Features
 
-- Clickable vehicle selector
-- 3D orbit and zoom controls
-- Animated entry into each vehicle
-- Separate museum-style interiors for all three tanks
+- Tanks grouped by country
+- Multiple unique tank families
+- Detailed exterior running gear and fittings
+- Hollow gun barrels and improved mechanical details
+- Separate, model-specific interiors
+- Exterior and interior viewing modes
+- Orbit and zoom controls
+- Military-base environment
 - Responsive desktop and mobile layout
+
+## Run locally
+
+Open `index.html` in a modern browser. No installation or build step is required.
 
 ## Live website
 
 [Open Tank It](https://tank-it.jojoglover10.chatgpt.site)
-
-## Run locally
-
-Because the project loads JavaScript modules, serve the repository with a local web server instead of opening `index.html` directly.
-
-For example, in VS Code you can use the Live Server extension and open `index.html`.
